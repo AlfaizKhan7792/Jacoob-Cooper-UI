@@ -292,7 +292,7 @@ background: linear-gradient(219deg, rgba(124,46,60,1) 0%, rgba(202,85,64,1) 62%)
 }
 
 /* Responsive @400px */
-@media (min-width: 300px)and (max-width: 410px) {
+@media (min-width: 250px)and (max-width: 410px) {
     .container-parent{
         grid-template-columns: repeat(2, 50% 50%);
         grid-template-rows: repeat(9);
